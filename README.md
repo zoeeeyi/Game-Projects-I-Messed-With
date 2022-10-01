@@ -1,5 +1,5 @@
 # Game-Projects-I-Messed-With
-Just a tiny cove for me to comeback and see how far I've gone...
+Just a tiny cove for me to comeback from time to time and see how far I've gone...
 
 ## Brush Bro
 - 2021
