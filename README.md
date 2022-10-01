@@ -19,6 +19,6 @@ Just a tiny cove for me to comeby from time to time... <br />
 - Solo
 - https://zoeee.itch.io/freefall
 ## Mergician
-- 2022
+- 2023
 - Programmer
 - Under Development
